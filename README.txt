@@ -7,6 +7,6 @@ How to use Laced v2.14
 5. Send the jpg to someone and wait for them to open it.
 6. Enjoy.
 ========================================================================
-[Credits] - Laced was created as a freeware program.
+[Credits] - Laced was created as a freeware program by @rbxmodification on github.
 [Disclaimer] - The creator(s) of this program are not liable for ANY damages caused by this program.
 [Disclaimer] - The creator(s) and all those associated with the development and production of this program are not responsible for any actions and or damages caused by this software. You bear the full responsibility of your actions and acknowledge that this software was created for educational purposes only. This software's intended purpose is NOT to be used maliciously, or on any system that you do not have own or have explicit permission to operate and use this program on. By using this software, you automatically agree to the above.
